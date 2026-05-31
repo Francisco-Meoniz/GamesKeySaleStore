@@ -1,0 +1,222 @@
+.history-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.history-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: border-color 0.2s;
+}
+
+.history-card:hover { border-color: rgba(255,106,0,0.3); }
+
+.history-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.history-card-header:hover { background: rgba(255,255,255,0.02); }
+
+.history-order-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.history-order-id {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.history-order-date {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.history-order-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.history-total {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--accent);
+  text-shadow: 0 0 8px var(--accent-glow);
+}
+
+.history-expand {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+/* Body */
+.history-card-body {
+  border-top: 1px solid var(--border);
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.history-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.history-item:last-of-type { border-bottom: none; padding-bottom: 0; }
+
+.history-item-left {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+}
+
+.history-item-img {
+  width: 80px;
+  height: 45px;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+}
+
+.history-item-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.history-item-title {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.history-item-platform {
+  font-size: 11px;
+  color: var(--neon-blue);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.history-item-seller {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.history-item-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+}
+
+.history-item-price {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 16px;
+  color: var(--green);
+  text-shadow: 0 0 8px var(--green-glow);
+}
+
+.history-key {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+}
+
+.history-key-label {
+  font-size: 11px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.history-key-code {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 13px;
+  color: var(--accent);
+  background: rgba(255,106,0,0.08);
+  border: 1px solid rgba(255,106,0,0.2);
+  padding: 4px 10px;
+  border-radius: 4px;
+  letter-spacing: 1px;
+}
+
+.history-card-footer {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
+}
+
+.btn-download-small {
+  background: transparent;
+  border: 1px solid var(--neon-blue);
+  color: var(--neon-blue);
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 1px;
+  transition: all 0.2s;
+}
+
+.btn-download-small:hover {
+  background: rgba(0,212,255,0.08);
+  box-shadow: 0 0 12px var(--neon-blue-glow);
+}
+
+.history-loading {
+  text-align: center;
+  padding: 40px;
+  color: var(--text-muted);
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 2px;
+}
+
+.history-empty {
+  text-align: center;
+  padding: 60px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.history-empty span { font-size: 48px; }
+.history-empty p { color: var(--text-muted); font-size: 15px; }
+
+.btn-rate {
+  background: transparent;
+  border: 1px solid rgba(255,106,0,0.3);
+  color: var(--accent);
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 0.5px;
+  transition: all 0.2s;
+  margin-top: 4px;
+}
+
+.btn-rate:hover {
+  background: rgba(255,106,0,0.08);
+  border-color: var(--accent);
+  box-shadow: 0 0 8px var(--accent-glow);
+}

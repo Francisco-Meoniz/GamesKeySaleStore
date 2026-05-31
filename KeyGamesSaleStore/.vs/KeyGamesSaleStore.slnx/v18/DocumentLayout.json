@@ -1,0 +1,572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\models\\entities\\sellerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\models\\entities\\sellerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\models\\entities\\withdrawalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\models\\entities\\withdrawalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\controllers\\withdrawalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\controllers\\withdrawalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\models\\dtos\\sellerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\models\\dtos\\sellerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\models\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\models\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\models\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\models\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\models\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\models\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\models\\dtos\\gamekeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\models\\dtos\\gamekeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\services\\interfaces\\igamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\services\\interfaces\\igamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\models\\dtos\\purchasehistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\models\\dtos\\purchasehistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\services\\interfaces\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\services\\interfaces\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\models\\dtos\\ratingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\models\\dtos\\ratingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\models\\entities\\sellerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\models\\entities\\sellerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\migrations\\20260408184257_addbalanceandwithdrawals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\migrations\\20260408184257_addbalanceandwithdrawals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|d:\\gamekeysalestore\\keygamessalestore\\keygamessalestore\\migrations\\20260408175414_addsellerextrafields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD38F51E-5C1D-EF81-9966-6013EB63224C}|KeyGamesSaleStore\\KeyGamesSaleStore.csproj|solutionrelative:keygamessalestore\\migrations\\20260408175414_addsellerextrafields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 279,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WithdrawalRequest.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\Entities\\WithdrawalRequest.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Models\\Entities\\WithdrawalRequest.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\Entities\\WithdrawalRequest.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Models\\Entities\\WithdrawalRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:40:18.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Models\\Entities\\CartItem.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\Entities\\CartItem.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Models\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T17:53:43.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\ProfileService.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Services\\ProfileService.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\ProfileService.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Services\\ProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:36:30.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SellerProfile.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\Entities\\SellerProfile.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Models\\Entities\\SellerProfile.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\Entities\\SellerProfile.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Models\\Entities\\SellerProfile.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBUAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:28:54.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Services\\AuthService.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\AuthService.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Services\\AuthService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAjwFoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:57:31.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Services\\OrderService.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\OrderService.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Services\\OrderService.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAxwMsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T22:04:40.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:29:07.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T00:02:38.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Program.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Program.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Program.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T20:01:14.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\appsettings.json",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\appsettings.json",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\appsettings.json",
+              "RelativeToolTip": "KeyGamesSaleStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T21:45:56.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WithdrawalController.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\WithdrawalController.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Controllers\\WithdrawalController.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\WithdrawalController.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Controllers\\WithdrawalController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAwKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:46:56.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Services\\PaymentService.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\PaymentService.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Services\\PaymentService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T22:10:20.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\AuthDto.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Models\\DTOs\\AuthDto.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\AuthDto.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Models\\DTOs\\AuthDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:55:26.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:14:29.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Controllers\\GamesController.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:51:26.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GamesService.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\GamesService.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Services\\GamesService.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\GamesService.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Services\\GamesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:56:48.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\CartDto.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Models\\DTOs\\CartDto.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\CartDto.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Models\\DTOs\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T17:56:42.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Services\\Interfaces\\ICartService.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Services\\Interfaces\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T17:57:07.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Services\\CartService.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\CartService.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Services\\CartService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T17:57:32.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\CartController.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAzwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T17:57:47.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Models\\DTOs\\CreateOrderDto.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\CreateOrderDto.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Models\\DTOs\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T18:43:56.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameKeyDto.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\GameKeyDto.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Models\\DTOs\\GameKeyDto.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\GameKeyDto.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Models\\DTOs\\GameKeyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:59:59.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PurchaseHistoryDto.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\PurchaseHistoryDto.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Models\\DTOs\\PurchaseHistoryDto.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\PurchaseHistoryDto.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Models\\DTOs\\PurchaseHistoryDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:35:28.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RatingsController.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\RatingsController.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Controllers\\RatingsController.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\RatingsController.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Controllers\\RatingsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:32:31.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RatingService.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\RatingService.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Services\\RatingService.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\RatingService.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Services\\RatingService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:32:13.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IRatingService.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\Interfaces\\IRatingService.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Services\\Interfaces\\IRatingService.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\Interfaces\\IRatingService.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Services\\Interfaces\\IRatingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:32:01.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGamesService.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\Interfaces\\IGamesService.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Services\\Interfaces\\IGamesService.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Services\\Interfaces\\IGamesService.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Services\\Interfaces\\IGamesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:54:19.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SellerRating.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\Entities\\SellerRating.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Models\\Entities\\SellerRating.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\Entities\\SellerRating.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Models\\Entities\\SellerRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:28:27.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAA4wGcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T20:00:56.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RatingDto.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\RatingDto.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Models\\DTOs\\RatingDto.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\RatingDto.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Models\\DTOs\\RatingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:31:41.375Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 121,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SellerDto.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\SellerDto.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Models\\DTOs\\SellerDto.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Models\\DTOs\\SellerDto.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Models\\DTOs\\SellerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:46:33.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260408184257_AddBalanceAndWithdrawals.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Migrations\\20260408184257_AddBalanceAndWithdrawals.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Migrations\\20260408184257_AddBalanceAndWithdrawals.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Migrations\\20260408184257_AddBalanceAndWithdrawals.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Migrations\\20260408184257_AddBalanceAndWithdrawals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:42:57.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260408175414_AddSellerExtraFields.cs",
+              "DocumentMoniker": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Migrations\\20260408175414_AddSellerExtraFields.cs",
+              "RelativeDocumentMoniker": "KeyGamesSaleStore\\Migrations\\20260408175414_AddSellerExtraFields.cs",
+              "ToolTip": "D:\\GameKeySaleStore\\KeyGamesSaleStore\\KeyGamesSaleStore\\Migrations\\20260408175414_AddSellerExtraFields.cs",
+              "RelativeToolTip": "KeyGamesSaleStore\\Migrations\\20260408175414_AddSellerExtraFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:54:15.192Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

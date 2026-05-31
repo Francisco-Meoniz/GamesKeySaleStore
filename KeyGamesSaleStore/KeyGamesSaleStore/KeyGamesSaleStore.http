@@ -1,0 +1,6 @@
+@KeyGamesSaleStore_HostAddress = http://localhost:5086
+
+GET {{KeyGamesSaleStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
